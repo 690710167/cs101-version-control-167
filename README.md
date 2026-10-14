@@ -1,1 +1,4 @@
-# cs101-version-control-167
+# My CS Profile
+## About Me
+- Name: Phukamol Santhip
+- Major: Computer Science
